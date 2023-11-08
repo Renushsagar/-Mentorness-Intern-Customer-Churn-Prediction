@@ -20,6 +20,7 @@ predictions.
 7. Recommendations: Based on your findings, provide actionable recommendations to the
 business. These recommendations should help reduce churn and improve customer retention
 strategies.
+
 Dataset Overview:
 The dataset contains the following columns:
  `customerID`: Customer ID
